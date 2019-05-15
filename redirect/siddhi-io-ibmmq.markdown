@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-io-ibmmq
   - /siddhi-io-ibmmq/

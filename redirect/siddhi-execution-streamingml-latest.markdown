@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-execution-streamingml/api/latest
   - /siddhi-execution-streamingml/api/latest/

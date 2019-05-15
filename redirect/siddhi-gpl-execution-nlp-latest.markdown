@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-gpl-execution-nlp/api/latest
   - /siddhi-gpl-execution-nlp/api/latest/

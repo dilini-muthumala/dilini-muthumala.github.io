@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-execution-tokenizer/api/latest
   - /siddhi-execution-tokenizer/api/latest/

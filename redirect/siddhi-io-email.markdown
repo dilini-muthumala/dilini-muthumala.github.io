@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-io-email
   - /siddhi-io-email/

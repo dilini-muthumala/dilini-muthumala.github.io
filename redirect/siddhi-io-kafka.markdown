@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-io-kafka
   - /siddhi-io-kafka/

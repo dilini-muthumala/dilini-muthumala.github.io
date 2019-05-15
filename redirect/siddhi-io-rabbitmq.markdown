@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-io-rabbitmq
   - /siddhi-io-rabbitmq/

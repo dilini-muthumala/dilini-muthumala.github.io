@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-execution-geo/api/latest
   - /siddhi-execution-geo/api/latest/

@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-io-email/api/latest
   - /siddhi-io-email/api/latest/

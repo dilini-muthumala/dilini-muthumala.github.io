@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-map-keyvalue
   - /siddhi-map-keyvalue/

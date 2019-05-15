@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-io-websocket/api/latest
   - /siddhi-io-websocket/api/latest/

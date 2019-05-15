@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-execution-string
   - /siddhi-execution-string/

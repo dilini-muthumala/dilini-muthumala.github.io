@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-store-solr
   - /siddhi-store-solr/

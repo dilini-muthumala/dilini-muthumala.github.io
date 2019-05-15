@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-io-tcp/api/latest
   - /siddhi-io-tcp/api/latest/

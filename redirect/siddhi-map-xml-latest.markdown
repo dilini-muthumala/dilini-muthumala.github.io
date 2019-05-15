@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-map-xml/api/latest
   - /siddhi-map-xml/api/latest/

@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-store-mongodb
   - /siddhi-store-mongodb/

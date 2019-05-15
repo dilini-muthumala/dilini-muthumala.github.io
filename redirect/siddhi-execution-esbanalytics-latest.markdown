@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-execution-esbanalytics/api/latest
   - /siddhi-execution-esbanalytics/api/latest/

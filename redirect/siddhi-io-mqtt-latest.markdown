@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-io-mqtt/api/latest
   - /siddhi-io-mqtt/api/latest/

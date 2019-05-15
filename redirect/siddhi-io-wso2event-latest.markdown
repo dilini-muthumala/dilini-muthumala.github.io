@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-io-wso2event/api/latest
   - /siddhi-io-wso2event/api/latest/

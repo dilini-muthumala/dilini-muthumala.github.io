@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-execution-time/api/latest
   - /siddhi-execution-time/api/latest/

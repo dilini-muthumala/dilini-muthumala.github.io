@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-execution-unique/api/latest
   - /siddhi-execution-unique/api/latest/

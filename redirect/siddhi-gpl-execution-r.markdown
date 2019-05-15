@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-gpl-execution-r
   - /siddhi-gpl-execution-r/

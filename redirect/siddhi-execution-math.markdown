@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-execution-math
   - /siddhi-execution-math/

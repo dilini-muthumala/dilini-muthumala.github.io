@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-execution-extrema/api/latest
   - /siddhi-execution-extrema/api/latest/

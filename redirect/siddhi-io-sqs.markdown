@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-io-sqs
   - /siddhi-io-sqs/

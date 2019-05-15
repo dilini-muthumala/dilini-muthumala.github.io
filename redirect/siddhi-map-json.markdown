@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-map-json
   - /siddhi-map-json/

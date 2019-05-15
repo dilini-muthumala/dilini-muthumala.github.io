@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-execution-timeseries/api/latest
   - /siddhi-execution-timeseries/api/latest/

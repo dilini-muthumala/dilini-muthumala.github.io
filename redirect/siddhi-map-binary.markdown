@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-map-binary
   - /siddhi-map-binary/

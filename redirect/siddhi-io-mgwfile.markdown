@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-io-mgwfile
   - /siddhi-io-mgwfile/

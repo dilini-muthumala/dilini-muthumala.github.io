@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-execution-regex/api/latest
   - /siddhi-execution-regex/api/latest/

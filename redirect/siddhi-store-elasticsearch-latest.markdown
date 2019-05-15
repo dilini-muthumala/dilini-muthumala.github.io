@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-store-elasticsearch/api/latest
   - /siddhi-store-elasticsearch/api/latest/

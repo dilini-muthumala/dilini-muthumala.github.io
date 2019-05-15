@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-io-jms/api/latest
   - /siddhi-io-jms/api/latest/

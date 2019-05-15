@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-io-kafka/api/latest
   - /siddhi-io-kafka/api/latest/

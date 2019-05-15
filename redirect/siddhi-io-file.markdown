@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-io-file
   - /siddhi-io-file/

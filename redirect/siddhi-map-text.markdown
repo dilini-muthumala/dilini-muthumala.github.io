@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-map-text
   - /siddhi-map-text/

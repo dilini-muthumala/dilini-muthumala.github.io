@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-store-mongodb/api/latest
   - /siddhi-store-mongodb/api/latest/

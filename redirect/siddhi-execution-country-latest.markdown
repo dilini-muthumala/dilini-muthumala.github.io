@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-execution-country/api/latest
   - /siddhi-execution-country/api/latest/

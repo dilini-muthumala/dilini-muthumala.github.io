@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-io-sqs/api/latest
   - /siddhi-io-sqs/api/latest/

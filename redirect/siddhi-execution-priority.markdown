@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-execution-priority
   - /siddhi-execution-priority/

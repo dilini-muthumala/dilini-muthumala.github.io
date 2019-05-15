@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-gpl-execution-pmml/api/latest
   - /siddhi-gpl-execution-pmml/api/latest/

@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-store-redis/api/latest
   - /siddhi-store-redis/api/latest/

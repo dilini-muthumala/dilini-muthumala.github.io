@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-store-hbase/api/latest
   - /siddhi-store-hbase/api/latest/

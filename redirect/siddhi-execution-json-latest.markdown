@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-execution-json/api/latest
   - /siddhi-execution-json/api/latest/

@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-gpl-execution-streamingml
   - /siddhi-gpl-execution-streamingml/

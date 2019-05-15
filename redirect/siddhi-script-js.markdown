@@ -1,3 +1,4 @@
+---
 redirect_from:
   - /siddhi-script-js
   - /siddhi-script-js/
